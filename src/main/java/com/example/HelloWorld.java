@@ -8,5 +8,10 @@ public class HelloWorld {
         System.out.println("Hello, World!");
         System.out.println("Hello, World!");
         System.out.println("Hello, World!");
+        System.out.println("Hello, World!");
+        System.out.println("Hello, World!");
+        System.out.println("Hellvbdfgbsdgo, World!");
+        System.out.println("Hellobsdfbds, World!");
+        System.out.println("Hello, bsdfsdfWorld!");
     }
 }
